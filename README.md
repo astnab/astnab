@@ -4,7 +4,8 @@
 
 i studied urban studies and did a few designs during college.... ✍️
 <br/>
-but i am currently learning web development! things i post here are either course projects or things i find *okay* enough to be posted.
+<br/>
+i am currently learning web development! things i post here are either course projects or things i find *okay* enough to be posted.
 
 <br/>
 
