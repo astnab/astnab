@@ -10,7 +10,7 @@ but i am currently learning web development! things i post here are either cours
 
 💻  **programming languages and frameworks/libraries:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs,redux&theme=light)](https://skillicons.dev)
 
 <br/>
 
