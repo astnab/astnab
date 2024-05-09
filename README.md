@@ -11,11 +11,11 @@ i am currently learning web development! things i post here are either course pr
 
 💻  **programming languages and frameworks/libraries:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs,redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,mysql&theme=light)](https://skillicons.dev)
 
 <br/>
 
-💾  **tools:**
+💾  **other tools:**
 
 [![Tools](https://skillicons.dev/icons?i=vscode,ps,ai,autocad,sketchup&theme=light)](https://skillicons.dev)
 
