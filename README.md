@@ -1,24 +1,22 @@
-# hello, this is astari! 👋
 
 
+<p align="center">
+  <h1 align="center">Astari Nabila</h1>
+  <p align="center">A full-stack web developer and an urban studies enthusiast</p>
+</p>
 
-i studied urban studies and did a few designs during college.... ✍️
-<br/>
-<br/>
-i am currently learning web development! things i post here are either course projects or things i find *okay* enough to be posted.
+<p align="center">
+  <a href="">Portfolio</a> | 
+  <a href="https://linkedin.com/in/astarinabila">LinkedIn</a>
+</p>
 
-<br/>
+<br />
 
-💻  **programming languages and frameworks/libraries:**
+💫 I'm currently working with my hands to make magic happen on the web. View my [Projects]() and [Resumé]().
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,mysql,express,nodejs&theme=light)](https://skillicons.dev)
+📫 You can reach me at astnab@gmail.com.
 
-<br/>
-
-💾  **other tools:**
-
-[![Tools](https://skillicons.dev/icons?i=vscode,ps,ai,autocad,sketchup&theme=light)](https://skillicons.dev)
-
-<br/>
-
-and more more more more more to learn!
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning about anything and everything around Javascript and Typescript
+- 🎓 I studied Urban Planning and previously worked in GIS and urban planning
+- 🎨 I have a passion for graphic design and did some designs during college
