@@ -18,5 +18,5 @@
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning about anything and everything around Javascript and Typescript
-- 🎓 I studied Urban Planning and previously worked in GIS and urban planning
+- 🎓 I studied Urban Planning and previously worked in GIS and urban planning field
 - 🎨 I have a passion for graphic design and did some designs during college
