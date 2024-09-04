@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="">Portfolio</a> | 
-  <a href="https://linkedin.com/in/astarinabila">LinkedIn</a>
+  <a href="https://astnab.vercel.app/" target="_blank">Portfolio</a> | 
+  <a href="https://linkedin.com/in/astarinabila" target="_blank>LinkedIn</a>
 </p>
 
 <br />
 
-💫 I'm currently working with my hands to make magic happen on the web. View my [Projects]() and [Resumé]().
+💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://astnab.vercel.app/) and [Resumé](https://read.cv/astnab).
 
 📫 You can reach me at astnab@gmail.com.
 
