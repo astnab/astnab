@@ -12,7 +12,7 @@
 
 <br />
 
-💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://astnab.vercel.app/) and [Resumé](https://read.cv/astnab).
+💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://astnab.vercel.app/#projects) and [Resumé](https://read.cv/astnab).
 
 📫 You can reach me at astnab@gmail.com.
 
