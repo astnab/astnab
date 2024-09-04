@@ -5,6 +5,8 @@
   <p align="center">A full-stack web developer and an urban studies enthusiast</p>
 </p>
 
+<p align="center"><img src="https://i.imgur.com/va6RopC.png" width="80" height="80"></p>
+
 <p align="center">
   <a href="https://astnab.vercel.app/" target="_blank">Portfolio</a> | 
   <a href="https://linkedin.com/in/astarinabila" target="_blank">LinkedIn</a>
