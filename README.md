@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://astnab.vercel.app/" target="_blank">Portfolio</a> | 
-  <a href="https://linkedin.com/in/astarinabila" target="_blank>LinkedIn</a>
+  <a href="https://linkedin.com/in/astarinabila" target="_blank">LinkedIn</a>
 </p>
 
 <br />
