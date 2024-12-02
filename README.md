@@ -13,14 +13,14 @@
 
 <p align="center">
     <samp>
- i'm based in indonesia <br /> and currently doing an internship as a full stack web developer.
+ i'm based in indonesia <br /> and currently interning as a full stack web developer.
         </samp>
 </p>
 <br/>
 
 <p align="center">
   <samp>
-    i'm currently building for the <a href="https://astnab.vercel.app/#projects" target="_blank">web</a> <br/> but i spent my college days studying urban planning and gis!
+    i'm building for the <a href="https://astnab.vercel.app/#projects" target="_blank">web</a> <br/> but i spent my college days studying urban planning and gis!
   </samp>
 </p>
 <br/>
