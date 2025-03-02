@@ -20,14 +20,9 @@
 
 <p align="center">
   <samp>
-    i'm building for the <a href="https://astnab.vercel.app/#projects" target="_blank">web</a> <br/> but i spent my college days studying urban planning and gis!
+    i'm building for the <a href="https://astnab.vercel.app/#projects" target="_blank">web</a> <br/> but i spent my college days 
+    <br/>studying urban planning and gis.
   </samp>
 </p>
 <br/>
 
-  
-<p align="center">
-      <samp>
-    find out more about me <a href="https://astnab.vercel.app" target="_blank">here</a>
-          </samp>
-</p>
